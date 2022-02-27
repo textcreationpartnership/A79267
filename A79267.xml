@@ -1,0 +1,297 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>His Majesties most gracious speech, together with the Lord Chancellours, to the tvvo Houses of Parliament, on Thursday the 13. of September, 1660 Die Jovis, 13. Septemb. 1660. Printed and published at the desire of both Houses of Parliament, and with His Majesties allowance. John Brown cleric. Parliamentorum.</title>
+            <title>Speeches. 1660-09-13</title>
+            <author>England and Wales. Sovereign (1660-1685 : Charles II)</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1660</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 27 KB of XML-encoded text transcribed from 7 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A79267</idno>
+            <idno type="STC">Wing C3169A</idno>
+            <idno type="STC">ESTC R223886</idno>
+            <idno type="EEBO-CITATION">99897568</idno>
+            <idno type="PROQUEST">99897568</idno>
+            <idno type="VID">135644</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A79267)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 135644)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2509:14)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>His Majesties most gracious speech, together with the Lord Chancellours, to the tvvo Houses of Parliament, on Thursday the 13. of September, 1660 Die Jovis, 13. Septemb. 1660. Printed and published at the desire of both Houses of Parliament, and with His Majesties allowance. John Brown cleric. Parliamentorum.</title>
+                  <title>Speeches. 1660-09-13</title>
+                  <author>England and Wales. Sovereign (1660-1685 : Charles II)</author>
+                  <author>Clarendon, Edward Hyde, Earl of, 1609-1674.</author>
+                  <author>England and Wales. Parliament.</author>
+                  <author>England and Wales. Lord Chancellor's Dept.</author>
+               </titleStmt>
+               <extent>12 p.   </extent>
+               <publicationStmt>
+                  <publisher>re-printed by Christopher Higgins, in Harts Close, over against the Trone Church,</publisher>
+                  <pubPlace>Edinburgh :</pubPlace>
+                  <date>1660.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Lord Chancellor = Edward Hyde, Earl of Clarendon.</note>
+                  <note>Reproduction of original in the Folger Shakespeare Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>England and Wales. --  Army --  Early works to 1800.</term>
+               <term>Soldiers --  England --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Charles II, 1660-1685 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-09</date>
+            <label>Ali Jakobson</label>Sampled and proofread</change>
+         <change>
+            <date>2011-09</date>
+            <label>Ali Jakobson</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:135644:1"/>
+            <p>His Majeſties Moſt Gracious SPEECH, Together with the Lord Chancellours, TO THE TWO HOUSES OF PARLIAMENT, On <hi>Thurſday</hi> the 13. of <hi>September,</hi> 1660.</p>
+            <p>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="license">
+                        <opener>
+                           <dateline>
+                              <date>
+                                 <hi>Die Jovis,</hi> 13. <hi>Septemb.</hi> 1660.</date>
+                           </dateline>
+                        </opener>
+                        <p>
+                           <hi>PRinted and Publiſhed at the deſire of both Houſes of Par<g ref="char:EOLhyphen"/>liament, And With His Majeſties Allowance.</hi>
+                        </p>
+                        <closer>
+                           <signed>JOHN BROWN. <hi>Cleric. Parliamentorum.</hi>
+                           </signed>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </p>
+            <p>
+               <hi>Edinburgh,</hi> Re-printed by <hi>Chriſtopher Higgins,</hi> in <hi>Harts</hi> Cloſe, over againſt the Trone Church, 1660.</p>
+         </div>
+      </front>
+      <body>
+         <div type="illustration">
+            <pb facs="tcp:135644:2"/>
+            <p>
+               <figure>
+                  <head>C R</head>
+                  <q>HONI SOIT QVI MAL Y PENSE</q>
+                  <figDesc>royal blazon or coat of arms</figDesc>
+               </figure>
+            </p>
+         </div>
+         <div type="speech">
+            <pb facs="tcp:135644:2"/>
+            <head>His Majeſties moſt Gracious SPEECH to His two Houſes of Parliament, on <hi>Thurſday</hi> the 13. of <hi>September,</hi> 1660.</head>
+            <opener>
+               <salute>My Lords and Gentlemen,</salute>
+            </opener>
+            <p>
+               <hi>
+                  <seg rend="decorInit">I</seg>I My preſence here had not been requi<g ref="char:EOLhyphen"/>ſite for the paſsing theſe many Bills, I did alwayes intend to ſee you toge<g ref="char:EOLhyphen"/>ther before your Adiournment, that I might again thank you for the many good things you have done for Me and the Kingdom; and in truth I do thank you more for what you have done for the pub<g ref="char:EOLhyphen"/>lick, then what you have done for My own particular, and yet I do thank you too for that with all My heart: But I confeſs to you, I do thank you more for the pro<g ref="char:EOLhyphen"/>viſion you have made to prevent Free-quarter, during the time the Army ſhall be disbanding, which I take to be given for My ſatisfaction, then I do for the other preſent you have made Me for My own particular occaſions; and I do promiſe you, which is the beſt way I can take to gratifie you, I will not apply one peny of that money to My own particular occaſions, what ſhift ſoever I make, till it is evident to Me, that the publick will not ſtand in need of it; and if it do, every peny of it ſhall be disburſed that way; and I dare ſay, I ſhall not be the poorer for it.</hi>
+            </p>
+            <p>
+               <hi>I cannot but take notice of one particular Bill I have paſſed, which may ſeem of an extraordinary nature, that concerning the Duke of</hi> Somerſet, <hi>but you all know it is for an extraordinary Perſon, who hath merited as much of the King My Father and My ſelf, as a Sub<gap reason="illegible" resp="#PDCC" extent="4 letters">
+                     <desc>••••</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#PDCC" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> am none of thoſe, who
+<pb n="4" facs="tcp:135644:3"/>think that Subiects by performing their duties in an extraordinary manner, do not obliege their Prince to reward them in an extraordinary manner; there can be no danger from ſuch a Precedent, and I hope no man will envy him, becauſe I have done what a good Maſter ſhould do to ſuch a Servant.</hi>
+            </p>
+            <p>My Lords and Gentlemen, <hi>I will not deny to you, that I had ſome inclination, when I conſented, upon your de<g ref="char:EOLhyphen"/>ſire, to your Receſs, to have made a Seſsion, which I thought moſt agreeable to the ancient order of Parlia<g ref="char:EOLhyphen"/>ments, and I hope you will all ioyn with Me in redu<g ref="char:EOLhyphen"/>cing the proceedings of Parliaments to the ancient Rules and Orders of Parliaments, the deviation from which, hath done us no good, and I think there were never ſo many Bills paſſed together, as I have this day given My Aſſent to, without a Seſsion: But upon the Deſire and Reaſons given by the Houſe of Commons, for an Adiournment without a Seſsion, I did very willingly depart from that inclination, and do as willingly give you leave and direct you that you Adiourn your ſelves till the ſixth day of</hi> November, <hi>when I hope you will all meet again, and in the mean time, that you will be all welcome to your Countries, and do me much Service there.</hi>
+            </p>
+            <p>
+               <hi>I have many other particulars to ſay and recom<g ref="char:EOLhyphen"/>mend to you, in which I cannot enough truſt My own memory, and therefore I ſhall command the Chancel<g ref="char:EOLhyphen"/>lour to ſay the reſt to you.</hi>
+            </p>
+            <p>
+               <hi>(After His Majeſty had ended His Speech, the Lord Chancellor ſaid, as followeth)</hi>
+            </p>
+         </div>
+         <div type="speech">
+            <opener>
+               <salute>My Lords and Gentlemen,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">T</seg>He King tells you that He hath commanded me to ſay many particulars to you, and the truth is, He hath char<g ref="char:EOLhyphen"/>ged me with ſo many, that I have great reaſon to fear, that I ſhall ſtand in much need of His Mercy, for omit<g ref="char:EOLhyphen"/>ting many things He hath given me in command, at leaſt for delivering them in more Diſo<gap reason="illegible" resp="#PDCC" extent="4 letters">
+                  <desc>••••</desc>
+               </gap> 
+               <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> matters of
+<pb n="5" facs="tcp:135644:3"/>ſuch moment and importance ought to be to ſuch an Aſſembly, for which the King Himſelf hath even a kind of Reverence, as well as an extraordinary Kindneſs. I am to mention ſome things He hath done already, and many things He intends to do during this Receſs, that you may ſee, how well content ſoever He is, that you ſhould have Eaſe, and Pleaſure, and Refreſhment, He hath deſigned work enough for Himſelf.</p>
+            <p>The King hath thanked you for the Proviſion you have made that there may be no free Quarter during the time the Army ſhall be diſ<g ref="char:EOLhyphen"/>banding, and hath told you what He will do with that Money you have given Him, if there ſhould want wherewithall to disband it; And now I hope you will all believe, that His Majeſty will conſent to the bisbanding: He will do ſo; And yet He does not take it un<g ref="char:EOLhyphen"/>kindly at their hands, who have thought that His Majeſty would not disband this Army; It was a ſober and a rational Jealouſie; No other Prince in <hi>Europe</hi> would be willing to disband ſuch an Army; An Army to which Victory is entayled, and which, humanely ſpeak<g ref="char:EOLhyphen"/>ing, could hardly fail of Conqueſt whitherſoever He ſhould lead it; And if God had not reſtored His Majeſty to that rare felicity, as to be without apprehenſion of danger at home or from abroad, and with<g ref="char:EOLhyphen"/>out any Ambition of taking from His Neighbours what they are po<g ref="char:EOLhyphen"/>ſſeſſed of; Himſelf would never disband this Army; an Army whoſe Order and Diſcipline, whoſe Sobriety and Manners, whoſe Courage and Succeſs hath made it famous and terrible over the world; An Army of which the King and His two Royal Brothers may ſay, as the noble <hi>Grecian</hi> ſaid of <hi>Aeneas,</hi>
+            </p>
+            <q>
+               <l>— Stetimus tela aſpera contra,</l>
+               <l>Contulimuſ<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> manus, experto credite, quantus</l>
+               <l>In clypeum aſſurgat, quo turbine torqueat haſtam.</l>
+            </q>
+            <p>They have all three in ſeveral Countries found themſelves en<g ref="char:EOLhyphen"/>gaged in the midſt of theſe Troops, in the heat and rage of Battle, and if any common Souldiers (as no doubt many may) will de<g ref="char:EOLhyphen"/>mand the old <hi>Romans</hi> priviledge for having encountred Princes ſingle, upon my Conſcience, he will finde both Favour and prefer<g ref="char:EOLhyphen"/>ment: They have all three obſerved the Diſcipline, and felt, and admired, and loved the Courage of this Army, when they were the worſe for it; and I have ſeen them <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> a ſeaſon when there was lit<g ref="char:EOLhyphen"/>tle elſe of comfort <hi>in <gap reason="illegible" resp="#PDCC" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>
+               </hi> themſelves with joy, that
+<pb n="6" facs="tcp:135644:4"/>the <hi>Engliſh</hi> had done the Great Work, the <hi>Engliſh</hi> had got the day, and then pleaſe themſelves with the Imagination what wonders they ſhould perform in the head of ſuch an Army: And therefore when His Majeſty is ſo intirely poſſeſſed of the Affection and Obedience of this Army, and when it hath merited ſo much from Him, Can it be believed, or imagined, that He can without ſome regrate part with them: No, My Lords and Gentlemen, He will never part with them, and the only ſure way never to part with them, is to Disband them; Should it be otherwiſe, they muſt be expoſed to the daily Im<g ref="char:EOLhyphen"/>portunity of His great Neighbours and Allies; and how could He refuſe to lend them His Troops, of which He hath no uſe Himſelf? His Majeſty knows they are too good <hi>Engliſh</hi> men, to wiſh that a ſtanding Army ſhould be kept up in the bowels of their own Countrey; that they who did but <hi>in Bello, pacis gerere negotium,</hi> and who, whileſt an Army, lived l<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ke good Husbandmen in the countrey, and good Citizens in the City will now become really ſuch, and take delight in the benefit of that Peace they have ſo honeſtly and ſo wonderfully brought to paſs: The King will part with them, as the moſt indulgent Parents part with their Children for their education, and for their preferment; he will prefer them to disbanding, and prefer them by disbanding, and will alwayes retain ſuch a kindneſs for them, and ſuch a memory of the ſervice they have done him, that both Officers and Soldiers, after they are disbanded, ſhall always finde ſuch countenance, favor, and reward from His Majeſty, that He doubts not, but if He ſhould have occaſion to uſe their Service, they will again reſort to Him with the ſame alacrity, as if they had never been disbanded: And if there be any ſo ill amongſt them (as there can be but very few, if any) who will forfeit that Favor and Protection they may have from H<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>m by any withſtanding His Majeſties commands, and the full and de<g ref="char:EOLhyphen"/>clared ſenſe of the Kingdom; His Majeſty is confident they will be as odious to their companious, as they can be to any other honeſt men.</p>
+            <p>My Lords and Gentlemen, I am in the next place, by the Kings command, to put you in minde of the Act of Indempnity, not of any Grants or Conceſsions or Releaſes He made to you in that Act, I have nothing of that in charge; no Prince hath ſo excellent a memo<g ref="char:EOLhyphen"/>ry to forget the Favors he <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>oth. But of what He hath done againſt you in that Act, how you <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> that Act, if you are not
+<pb n="7" facs="tcp:135644:4"/>very carefull to perform the obligations He hath laid upon you in it: the clauſe I am to put you in minde of, is this, <hi>And to the intent and purpoſe that all names and terms of diſtinction may be like wiſe put into utter Oblivion, Be it further Enacted by the Authority afore<g ref="char:EOLhyphen"/>ſaid, That if any perſon or perſons, within the space of three years next enſuing, ſhall preſume malitiouſly to call, or alledge, or object againſt any other perſon or perſons any name or names, or other words of reproach, any way leading to revive the memory of the late differences, or the occaſion thereof, That then every ſuch perſon, ſo as aforeſaid offending, ſhall forfeit, &amp;c.</hi> It is no matter for the Penalty, it is too cheap a one; the King wiſhes it had been greater, and there<g ref="char:EOLhyphen"/>fore hath by His juſt Prerogative (and 'tis well for us He hath ſuch a Prerogative) added another Penalty more inſupportable, even His high Diſpleaſure againſt all who ſhall ſwerve from this clauſe in the Act. Give me leave to tell you, That as any name or names, or other words of reproach are expreſly againſt the letter, and puniſhable accordingly, ſo evil and envious looks, murmuring and diſcontented hearts, are as directly againſt the equity of this Statute, a direct breach of the Act of Indempnity, and ought to be puniſhed too; and I believe they may be ſo. You know Kings are in ſome ſenſe called Gods, and ſo they may in ſome degree be able to look into mens hearts; and God hath given us a King who can look as far into mens hearts as any Prince alive; and He hath great skill in Phyſiognomy too, you would wonder what calculations he hath made from thence; and no doubt, if He be provoked by evil looks, to make a further en<g ref="char:EOLhyphen"/>quiry into mens hearts, and findes thoſe corrupted with the paſſions of Envy and uncharitableneſs, He will never chooſe thoſe hearts to truſt and rely upon. He hath given us a noble and princely example, by opening and ſtretching His armes to all who are worthy to be His Subjects, worthy to be thought Engliſh men, by extending His heart with a pious and gratefull joy to finde all His Subjects at once in His arms, and himſelf in theirs: and ſhall we fold our arms to<g ref="char:EOLhyphen"/>wards one another, and contract our hearts with Envy and Malice to each other, by any ſharp memory of what hath been unneighbour<g ref="char:EOLhyphen"/>ly or unkindely done heretofore? What is this but to rebel againſt the Perſon of the King, againſt the excellent Example and Vertue of the King, againſt the known Law of the Land, this bleſſed Act Oblivion?</p>
+            <pb n="8" facs="tcp:135644:5"/>
+            <p>My Lords and Gentlemen, The King is a Suiter to you, makes it His ſuite very heartily, That you will joyn with Him in reſtoring the whole Nation to its primitive temper and integrity, to its old good maners, its old good humor, and its old good nature, Good nature, a vertue ſo peculiar to you, ſo appropriated by God Almigh<g ref="char:EOLhyphen"/>ty to this Nation, that it can be tranſlated into no other Language, hardly practiſed by any other people, and that you will by your example, by the candor of your converſation, by your precepts, and by your practice, and by all your Intereſt, teach your neighbours and your friends, how to pay a full obedience to this clauſe of the Sta<g ref="char:EOLhyphen"/>tute, how to learn this excellent Art of Forgetfulneſs.</p>
+            <p>Let them remember, and let us all remember, how ungracious, how indecent, how ugly, the Inſolence, the Fierceneſs, the Bruitiſhneſs of their Enemies appeared to them; and we may piouſly and reaſonably believe, that Gods indignation againſt them, for their want of bowels, for their not being <hi>Engliſh-men,</hi> (for they had the hearts of Pagans and Infidels) ſent a Whirlwind in a moment to blow them out of the world, that is, out of a capacity to do more miſchief in the world, except we practiſe their vices, and do that our ſelves which we pretend to deteſt them for: Let us not be too much aſhamed, as if what hath been done amiſs, proceeded from the hu<g ref="char:EOLhyphen"/>mor, and the temper, and the nature of our Nation. The <hi>Aſtrolo<g ref="char:EOLhyphen"/>gers</hi> have made us a fair excuſe, and truly I hope a true one; all the motions of theſe laſt twenty years have been unnatural, and have proceeded from the evil influence of a malignant Star; and let us not too much deſpiſe the influence of the Stars: And the ſame <hi>Aſtrologers</hi> aſſure us, that the malignity of that Star is expired; the good <hi>genius</hi> of this Kingdom is become Superior, and hath maſtered that malignity, and our own good old Stars govern us again, and their influence is ſo ſtrong, that with our help, they will repair in a year what hath been decaying in twenty; and they onely ſhall have no excuſe from the Stars, who continue their malignity, and own all the ill that is paſt to be their own, by continuing and im<g ref="char:EOLhyphen"/>proving it for the time to come.</p>
+            <p>If any body here, or any where elſe, be too much exalted with what he he hath done, or what he hath ſuffered, and from thence thinks himſelf warranted to reproach others, let him remember the ſtory of <hi>Nicephorus;</hi> it is an excellent ſtory, and very applicable to
+<pb n="9" facs="tcp:135644:5"/>ſuch diſtempers: He was a pious and religious man, and for his Piety and Religion was condemned to the fire; when he was led to execution, and when an old Friend who had done him injury enough, fell at his feet and asked his pardon; the poor man was ſo elated with the triumph he was going unto, with the glory of Martyrdom, tthat he refuſed to be re<g ref="char:EOLhyphen"/>conciled unto him; upon which he was diſappointed of his end; and for this uncharitableneſs, the Spirit of God immediately forſook him, and he apoſtatized from the Faith. Let all thoſe who are too proud of having been as they think, leſs faulty then other men, and ſo are unwilling to be reconciled to thoſe who have offended them, take heed of the Apoſtacy of <hi>Nicephorus,</hi> and that thoſe fumes of Envy and Uncharitableneſs, and Murmuring, do not ſo far tranſport and intoxicate them, that they fall in<g ref="char:EOLhyphen"/>to thoſe very Crimes, they value themſelves for having hitherto declined.</p>
+            <p>But, my Lords and Gentlemen, whileſt we conſpire together, to exe<g ref="char:EOLhyphen"/>cute faithfully this part of the Bill, to put all old names and terms of diſ<g ref="char:EOLhyphen"/>tinction into utter Oblivion; let us not finde new names and terms to keep up the ſame, or a worſe diſtinction: If the old reproaches of Cava<g ref="char:EOLhyphen"/>lier, and Round-head, and Malignant be commited to the Grave; let us not finde more ſignificant and better words, to ſignifie worſe things; let not Piety and Godlineſs grow into terms of reproach, and diſtinguiſh be<g ref="char:EOLhyphen"/>tween the Court and the City and the Countrey; and let not Piety and Godlineſs be meaſured by a moroſity in Manners, an affectation of Geſ<g ref="char:EOLhyphen"/>ture, a new mode and tone of Speaking; at leaſt, let not our Conſtituti<g ref="char:EOLhyphen"/>ons and Complexions make us be thought of a contrary party; and be<g ref="char:EOLhyphen"/>cauſe we have not an affected auſterity in our looks, that we have not Piety in our hearts. Very merry men have been very godly men; and if a good <hi>Conſcience</hi> be a continuall <hi>Feaſt,</hi> there is no reaſon but men may be very merry at it.</p>
+            <p>You, Mr. <hi>Speaker,</hi> have this day made a noble Preſent to the King. Do you think that if you and your worthy Companions had brought it up with folded Arms, down-caſt looks, with ſighs and other inſtances of deſperation, would it not have been a very melancholick Preſent? Have not your frank and dutiful expreſſions, that chearfulnes and vivacity in your looks, rendered it much more acceptable, much more valuable: No Prince in Chriſtendom loves a chearful giver ſo well as <hi>God Almigh<g ref="char:EOLhyphen"/>ty</hi> does, and he of all gifts, a chearful heart; and therefore I pray, let not a cloudy and diſconſolate face be the onely, or the beſt ſign of Piety and Devotion in the heart.</p>
+            <p>I muſt ask your pardon for miſplacing much of <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Diſcourſe, which I ſhould have mentioned, when I came to ſpeak <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> the Miniſters Bill; they, I hope, will endeavour to remove theſe <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> 
+               <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>rks of diſtinction and reproaches, and keep their Auditorie <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> 
+               <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>oſed upon by
+<pb n="10" facs="tcp:135644:6"/>ſuch characters and deſcriptions. The King hath paſſed this <hi>Act</hi> very willingly, and done much to the end of this <hi>Act</hi> before; yet hath willing<g ref="char:EOLhyphen"/>ly admitted you to be ſharers and partners with Him in the Obligation: I may ſay confidently His Majeſty hath never denyed his Confirmation to any man in poſſeſſion, who hath asked it: and they have all had the effect of it, except ſuch, who upon examination and enquiry, appeared not worthy of it, and ſuch who though they are pardoned, cannot yet think themſelves worthy to be preferred. His Majeſty well knows that by this <hi>Act</hi> he hath gratified and obliged many worthy and pious men, who have contributed much to his Reſtauration, and who ſhall alwayes receive freſh evidence of his Majeſties favour and kindneſs, but he is not ſure that he may not likewiſe have gratified ſome who did neither contribute to his coming in, nor are yet glad that he is in; how comes it elſe to paſs, that he receives ſuch frequent information of ſeditious Ser<g ref="char:EOLhyphen"/>mons in the City and in the Countrey, in which all induſtry is uſed to alienate the affections of the people, and to infuſe Jealouſies into them of the King and his Government; They talk of introducing Popery, of evil Councellors, and ſuch other old Calumnies as are pardoned by this Act of Indempnity.</p>
+            <p>His Majeſty told you when he was laſt here, what rigour and ſeve<g ref="char:EOLhyphen"/>rity he will hereafter uſe, how contrary ſoever it is to his Nature, in theſe caſes; and conjured you, My Lords and Gentlemen, to concur with him in this juſt and neceſſary Severity, which I am ſure you will do with your utmoſt vigilance, and that you will believe that too much ill cannot befall thoſe who do the beſt they can to corrupt His Majeſties Nature, and to extinguiſh His Mercy.</p>
+            <p>My Lords and Gentlemen, I told you I was to acquaint you with ſome things his Majeſty intends to do during this Receſs, that you may ſee He will give no intermiſſion to His own thoughts for the publick good, though for a time He diſpences with your aſſiſtance.</p>
+            <p>He doth conſider the infinite importance the improvement of Trade muſt be to this Kingdom, and therefore His Majeſty intends forthwith to eſtabliſh a Council for Trade, conſiſting of ſome principal Merchants of the ſeveral Companies; to which he will adde ſome Gentlemen of quality and experience; and for their greater honour and encourage<g ref="char:EOLhyphen"/>ment, ſome of my Lords of His own Privy Council.</p>
+            <p>In the next place, His Majeſty hopes that by a well ſettled Peace, and Gods great bleſſing upon Him and you, this Nation will in a ſhort time <gap reason="illegible" resp="#PDCC" extent="5 letters">
+                  <desc>•••••</desc>
+               </gap>iſh to that degree, that the Land of <hi>Canaan</hi> did, when <hi>Eſau</hi> found <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ceſſary to part from his brother — For their riches were <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> that they might dwell together, and the Land where <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> not bear them, becauſe of their Cattle,
+<pb n="11" facs="tcp:135644:6"/>We have been Our Selves very near this Pinacle of happineſs, and the hope of contemplation that we may be ſo a gain, diſpoſes the King to be very ſolicitous for the improvement and proſperity of His Plantations abroad, where there is ſuch large room for the Induſtry and Reception of ſuch who ſhall deſire to go thither; and therefore his Majeſty like<g ref="char:EOLhyphen"/>wiſe intends to erect and eſtabliſh a Council for thoſe Plantations, in which perſons well qualified ſhall be wholly intent upon the good and advancement of thoſe Plantations.</p>
+            <p>There are two other Particulars, which I am commanded to mention, which were both mentioned and recommended to You by His Majeſty in His Declaration from <hi>Breda;</hi> The one, for the Confirmation of Sales, or other recompence for Purchaſers; The other, for the compoſing thoſe differences and diſtempers in Religion, which have too much diſturbed the Peace of the Kingdom. Two very weighty particulars, in which His Majeſty knows You have ſpent much time, and concerning which he ſhould have heard from You before this time, if You had not met with great difficulties in the diſquiſition of either.</p>
+            <p>For the firſt, His Majeſty hath not been without much thought upon the Argument, and hath done much towards the accommodation of many particular perſons, and You ſhall not be at Your Journeys end before his Majeſty will put that buſineſs concerning Sales into ſuch a way of Diſpatch, that he doubts not You will finde a good progreſſe made in it before Your comming together again, and I believe the Per<g ref="char:EOLhyphen"/>ſons concerned, will be very much to blame; if they receive not good ſa<g ref="char:EOLhyphen"/>tisfaction; And ſome of You who ſtay in Town, ſhall be adviſed and conſulted with in that ſettlment.</p>
+            <p>The other, of Religion, is a ſad Argument indeed; it is a Conſidera<g ref="char:EOLhyphen"/>tion that muſt make every religious heart to bleed, to ſee Religion, which ſhould be the ſtrongeſt obligation and cement of affection, and brother<g ref="char:EOLhyphen"/>ly kindeneſs and compaſſion, made now by the perverſe wranglings of paſſionate and froward men, the ground of all animoſity, hatred, malice and revenge: And this unruly and unmanly paſſion (which no que<g ref="char:EOLhyphen"/>ſtion the Divine nature exceedingly abhors) ſometimes, and I fear too frequently tranſports thoſe who are in the right, as well as thoſe who are in the wrong, and leaves the latter more excuſable then the former, when men who find their manners and diſpoſitions very conformable in all the neceſſary obligations of Humane nature, avoide one anothers Converſation, and grow firſt unſociable, and then uncharitable to each other, becauſe one cannot think as the other doth. And from this ſepara<g ref="char:EOLhyphen"/>tion we intitle God to the patronage of, <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> 
+               <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ncernment in our fancies &amp; diſtinction, &amp; purely for his ſake <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> 
+               <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>her heartily. Its was not ſo of old, when one of the moſt <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> of the Church tells
+<pb n="12" facs="tcp:135644:7" rendition="simple:additions"/>us, That Love and Charity was ſo ſignal and eminent in the Primitive Chriſtians, that it even drew Admiration and Envy from their Adver<g ref="char:EOLhyphen"/>ſaries. <hi>Vide (inquiunt) ut invicem ſe diligunt!</hi> Their Adverſaries in that in which they moſt agreed, in their very perſecution of them, had their Paſſions and Animoſities amongſt themſelves; they were onely Chri<g ref="char:EOLhyphen"/>ſtians, that loved, and cheriſhed, and comforted, and were ready to die for one another; <hi>Quid nunc illi dicerent Chriſtiani, ſi noſtra viderent tem<g ref="char:EOLhyphen"/>pora?</hi> ſayes the incomparable <hi>Grotius:</hi> How would they look upon our ſharp and virulent Contentions in the debates of <hi>Chriſtian Religion,</hi> and the bloody Wars that have proceeded from thoſe Contentions, whileſt every one pretended to all the Marks which are to attend upon the true Church, except onely that which is inſeparable from it, <hi>Charity to one another.</hi>
+            </p>
+            <p>My Lords and Gentlemen, This Diſquiſition hath coſt the King many a ſigh, many a ſad hour, when he hath conſidered the almoſt irreparable reproach the <hi>Proteſtant Religion</hi> hath undergone, from the diviſions and diſtractions which have been ſo notorious within this Kingdom. What pains he hath taken to compoſe them, after ſeveral diſcourſes with lear<g ref="char:EOLhyphen"/>ned and pious men of different perſwaſions, you will ſhortly ſee, by a <hi>Declaration</hi> He will publiſh upon that occaſion, by which you will ſee His great indulgence to thoſe who can have any protection from <hi>Con<g ref="char:EOLhyphen"/>ſcience</hi> to differ with their Brethren. And I hope God will ſo bleſs the candor of His Majeſty in the condeſcentions He makes, that the Church as well as the State, will return to that unity and unanimity, which will make both King and People as happy as they can hope to be in this world.</p>
+            <p>My Lords and Gentlemen, I ſhall conclude with the Kings hearty thanks to you, not onely for what you have done towards Him, which hath been very ſignal, but for what you have done towards each other; for the excellent correſpondence you have maintained; for the very ſeaſonable deference and condeſcention you have had for each other, which will reſtore <hi>Parliaments</hi> to the veneration they ought to have. And ſince His Majeſty knows, that you all deſire to pleaſe him, you have given him ample evidence, that you do ſo; He hath appointed me to give you a ſure Receipt to attain that good end, it is a Receipt of His own preſcribing, and therefore is not like to fail.</p>
+            <p>Be but pleaſed your ſelves, and perſwade others to be ſo; contrive all the wayes imaginable for your own happineſs, and you will make Him the beſt pleaſed, and the moſt happy Prince in the World.</p>
+            <trailer>
+               <hi>
+                  <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>NI<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </hi>
+            </trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
